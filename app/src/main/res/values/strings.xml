@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BusinessApp</string>
+    <string name="business_name">"Vapiano"</string>
+    <string name="business_info">"Euro-chic chain for pastas, pizzas and more, ordered cafeteria-style in modern environs with a bar."</string>
+    <string name="adress">" Theobaldgasse 19, 1060 Wien "</string>
+    <string name="phone">" 01 5811212 "</string>
+    <string name="days">"Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday "</string>
+    <string name="hours">"11:00 - 00:00
+    11:00 - 00:00
+    11:00 - 00:00
+    11:00 - 00:00
+    11:00 - 00:00
+    11:00 - 00:00
+    11:00 - 23:00"</string>
+    <string name="website">" http://at.vapiano.com"</string>
+</resources>
