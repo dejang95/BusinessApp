@@ -4,4 +4,5 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="defaultText">20sp</dimen>
     <dimen name="defaultPad">20dp</dimen>
+
 </resources>
